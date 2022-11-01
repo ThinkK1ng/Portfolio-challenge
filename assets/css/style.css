@@ -11,7 +11,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(../assets/images/ThinkK1ng.jpg);
+    background-image: url(/assets/images/ThinkK1ng.jpg);
     background-size: cover;
     background-position: center;
 }
