@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #312e2e;
+    color: whitesmoke;
+    font-family:'Lucida Grande';
+    box-sizing: border-box;
+}
+
+
+.hero {
+    height: 100vh;
+    width: 100%;
+    background-image: url(../assets/images/ThinkK1ng.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    padding: 20px;
+    background-color: #000000;
+    color: aqua;
+    font-size: 40px;
+    text-align: left;
+}
+
+nav {
+    text-align: right;
+    align-items: center;
+    border-bottom: 1px solid blue;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    font-size: 20px;
+    padding: 1%;
+}
+
+a {
+    color:crimson;
+}
+
+hr {
+    border-bottom: 4px solid blue; 
+}
+
+p {
+    font-size: 20px;
+}
+
+
+h2 {
+    font-size: 50px;
+    color: aqua; 
+    padding-bottom: 10px;
+}
+
+.vl {
+    border-left: 3px solid blue;
+    height: 400px;
+}
+
+ul li {
+    font-size: 25px;
+    list-style-type: none;
+    color:crimson;
+    display: inline;
+    text-align: left;
+    text-decoration: underline;
+    padding-right: 50px;
+    padding-top: 10px;
+}
