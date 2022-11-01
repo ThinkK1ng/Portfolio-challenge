@@ -6,6 +6,6 @@ Here I built my own webpage to host my portfolio that displays a brief few words
 
 [Github repositroy](https://github.com/ThinkK1ng/BC-Challenges)
 
-[Github pages](https://thinkk1ng.github.io/BC-Challenges/)
+[Github pages](https://thinkk1ng.github.io/Portfolio-challenge/)
 
 [site image] ()
