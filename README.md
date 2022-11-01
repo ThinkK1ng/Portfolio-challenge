@@ -8,4 +8,4 @@ Here I built my own webpage to host my portfolio that displays a brief few words
 
 [Github pages](https://thinkk1ng.github.io/Portfolio-challenge/)
 
-[site image] ()
+[site image](https://www.awesomescreenshot.com/image/33940877?key=b8a5299319af352ac68153a2e55d52e4)
